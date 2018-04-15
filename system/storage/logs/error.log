@@ -1,0 +1,6 @@
+2018-04-11 9:11:28 - PHP Warning:  mysqli::mysqli(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /hermes/bosnaweb28a/b119/ipg.hoangluancorp46836/mywebsite/system/library/db/mysqli.php on line 7
+2018-04-11 9:11:28 - PHP Warning:  mysqli::mysqli(): (HY000/2002): php_network_getaddresses: getaddrinfo failed: Name or service not known in /hermes/bosnaweb28a/b119/ipg.hoangluancorp46836/mywebsite/system/library/db/mysqli.php on line 7
+2018-04-11 9:11:28 - PHP Warning:  DB\MySQLi::__construct(): Couldn't fetch mysqli in /hermes/bosnaweb28a/b119/ipg.hoangluancorp46836/mywebsite/system/library/db/mysqli.php on line 10
+2018-04-11 9:11:28 - PHP Warning:  DB\MySQLi::__construct(): Couldn't fetch mysqli in /hermes/bosnaweb28a/b119/ipg.hoangluancorp46836/mywebsite/system/library/db/mysqli.php on line 10
+2018-04-11 9:11:28 - PHP Notice:  Undefined variable: mysql in /hermes/bosnaweb28a/b119/ipg.hoangluancorp46836/mywebsite/install/controller/install/step_3.php on line 280
+2018-04-11 9:11:28 - PHP Notice:  Trying to get property of non-object in /hermes/bosnaweb28a/b119/ipg.hoangluancorp46836/mywebsite/install/controller/install/step_3.php on line 280
